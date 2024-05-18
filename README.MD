@@ -3,7 +3,7 @@
 A simplep python wrapper for [dchcaptcha.com](https://dchcaptcha.com/).
 
 ## Setup
-### PIPDoesn't work anymore: please download sources.
+### PIP doesn't work anymore ( azulax wanted me to delte it ): please download sources.
 ### Modules required: tls_client
 
 ## How to use
