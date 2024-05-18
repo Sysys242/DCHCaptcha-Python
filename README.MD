@@ -1,6 +1,6 @@
 # Py-DCHcaptcha
 
-A simplep python wrapper for [dchcaptcha.com](https://dchcaptcha.com/).
+A simple python wrapper for [dchcaptcha.com](https://dchcaptcha.com/).
 
 ## Setup
 ### PIP doesn't work anymore ( azulax wanted me to delte it ): please download sources.
