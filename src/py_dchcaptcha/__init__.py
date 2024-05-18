@@ -55,7 +55,7 @@ class DCHcaptcha:
         ).json()
 
         if response['error'] == 1:
-            raise Exception("Failed to solve ( get_task_data ): mainly proxy issue.")
+            raise Exception("Failed to solve ( get_task_data ): maybe proxy issue.")
         
         return response['data']
     
